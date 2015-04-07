@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1428400191 source:c:\users\lalith\documents\autosuggest\autosuggest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
